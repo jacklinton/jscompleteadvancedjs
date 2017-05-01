@@ -1,0 +1,17 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "nodemon": "nodemon lib/server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
